@@ -1,0 +1,60 @@
+start->snacks, distance cost=141.702m, time cost=0.00075s
+	path cells=623, all visited cells=73391
+
+start->store, distance cost=159.064m, time cost=0.000632s
+	path cells=652, all visited cells=77639
+
+start->movie, distance cost=179.186m, time cost=0.000686s
+	path cells=785, all visited cells=100414
+
+start->food, distance cost=228.260m, time cost=0.000892s
+	path cells=966, all visited cells=168066
+
+snacks->start, distance cost=143.014m, time cost=0.000542s
+	path cells=623, all visited cells=107637
+
+snacks->store, distance cost=114.826m, time cost=0.000384s
+	path cells=496, all visited cells=60690
+
+snacks->movie, distance cost=106.418m, time cost=0.000341s
+	path cells=472, all visited cells=54280
+
+snacks->food, distance cost=130.512m, time cost=0.00054s
+	path cells=565, all visited cells=92510
+
+store->start, distance cost=160.540m, time cost=0.000464s
+	path cells=652, all visited cells=83835
+
+store->snacks, distance cost=114.170m, time cost=0.000387s
+	path cells=496, all visited cells=61050
+
+store->movie, distance cost=210.814m, time cost=0.000741s
+	path cells=962, all visited cells=163633
+
+store->food, distance cost=110.790m, time cost=0.0004s
+	path cells=516, all visited cells=63786
+
+movie->start, distance cost=178.858m, time cost=0.000789s
+	path cells=785, all visited cells=106396
+
+movie->snacks, distance cost=106.418m, time cost=0.000424s
+	path cells=472, all visited cells=62111
+
+movie->store, distance cost=210.650m, time cost=0.000815s
+	path cells=962, all visited cells=159720
+
+movie->food, distance cost=113.692m, time cost=0.000463s
+	path cells=485, all visited cells=63035
+
+food->start, distance cost=227.768m, time cost=0.000734s
+	path cells=966, all visited cells=153359
+
+food->snacks, distance cost=130.512m, time cost=0.000424s
+	path cells=565, all visited cells=91604
+
+food->store, distance cost=112.594m, time cost=0.000412s
+	path cells=516, all visited cells=64129
+
+food->movie, distance cost=111.396m, time cost=0.000368s
+	path cells=485, all visited cells=67962
+

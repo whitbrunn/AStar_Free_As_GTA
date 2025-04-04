@@ -1,0 +1,60 @@
+start->snacks, distance cost=145.460m, time cost=0.000444s
+	path cells=634, all visited cells=5295
+
+start->store, distance cost=163.006m, time cost=0.000717s
+	path cells=659, all visited cells=10771
+
+start->movie, distance cost=210.974m, time cost=0.001016s
+	path cells=889, all visited cells=3074
+
+start->food, distance cost=253.020m, time cost=0.000716s
+	path cells=1098, all visited cells=9524
+
+snacks->start, distance cost=152.602m, time cost=0.000468s
+	path cells=657, all visited cells=7361
+
+snacks->store, distance cost=122.558m, time cost=0.000309s
+	path cells=524, all visited cells=545
+
+snacks->movie, distance cost=141.392m, time cost=0.000373s
+	path cells=603, all visited cells=1787
+
+snacks->food, distance cost=132.780m, time cost=0.000348s
+	path cells=587, all visited cells=6141
+
+store->start, distance cost=165.328m, time cost=0.000463s
+	path cells=662, all visited cells=7696
+
+store->snacks, distance cost=120.106m, time cost=0.000294s
+	path cells=506, all visited cells=586
+
+store->movie, distance cost=254.404m, time cost=0.00064s
+	path cells=1059, all visited cells=2984
+
+store->food, distance cost=116.024m, time cost=0.000314s
+	path cells=527, all visited cells=702
+
+movie->start, distance cost=235.710m, time cost=0.000758s
+	path cells=1075, all visited cells=6477
+
+movie->snacks, distance cost=145.644m, time cost=0.000402s
+	path cells=671, all visited cells=1142
+
+movie->store, distance cost=221.932m, time cost=0.00061s
+	path cells=977, all visited cells=1845
+
+movie->food, distance cost=115.272m, time cost=0.000286s
+	path cells=497, all visited cells=550
+
+food->start, distance cost=276.196m, time cost=0.000697s
+	path cells=1186, all visited cells=12368
+
+food->snacks, distance cost=182.966m, time cost=0.00048s
+	path cells=808, all visited cells=21259
+
+food->store, distance cost=131.770m, time cost=0.000339s
+	path cells=584, all visited cells=1356
+
+food->movie, distance cost=118.702m, time cost=0.000278s
+	path cells=508, all visited cells=1336
+
