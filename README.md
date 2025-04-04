@@ -19,6 +19,7 @@
 
 Make sure you have the following folder structure:
 
+```
 Project-Root/ 
 ├── README.md
 ├── astar.ipynd
@@ -29,7 +30,7 @@ Project-Root/
     ├── 8-ngb_Manhattan_res.txt
     ├── 8-ngb_Dij_res.txt
     └── ...
-
+```
 
 ## How to use
 
